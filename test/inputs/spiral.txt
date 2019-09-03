@@ -1,0 +1,39 @@
+  rotate -45
+      move      20
+  fg    1
+    bg    2
+  rotate -45
+ draw  1
+rotate 45
+fg 2
+bg 3
+draw 3
+rotate 45
+fg 3
+bg 4
+draw 3
+rotate 45
+fg 4
+bg 5
+draw 5
+rotate 45
+fg 5
+bg 6
+draw 5
+rotate 45
+fg 7
+bg 0
+draw 7
+rotate 45
+fg 8
+bg 1
+draw  7
+rotate 45
+fg 9
+bg 2
+draw 9
+rotate 45
+fg 10
+bg 3
+draw  9
+rotate 45

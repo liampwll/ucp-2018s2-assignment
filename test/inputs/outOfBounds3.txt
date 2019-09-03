@@ -1,0 +1,4 @@
+rotate -45
+draw 10
+rotate -90
+draw 20
